@@ -345,8 +345,8 @@ function cripple_window(_window) {
                         c.fillText(e.weapon.name, x, y);
                         c.strokeText(e.weapon.name, x, y);
                         y += 35;
-                        c.fillText(e.health + ' HP', x, y);
-                        c.strokeText(e.health + ' HP', x, y);
+                        c.fillText(e.health + ' HP[CHRISTIANS BITCH]', x, y);
+                        c.strokeText(e.health + ' HP[CHRISTIANS BITCH]', x, y);
 
                         c.strokeStyle = original_strokeStyle;
                         c.lineWidth = original_lineWidth;
